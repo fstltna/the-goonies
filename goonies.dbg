@@ -1,0 +1,16 @@
+Application started
+Initializing SDL
+SDL initialized
+Setting OpenGL attributes
+OpenGL attributes set
+Initializing video mode
+Video mode initialized
+Initializing Audio
+Initializing SDL_mixer.
+    Opened dsound at 44100 Hz 16 bit stereo, 2048 bytes audio buffer
+    Compiled with SDL_mixer version: 1.2.6
+    Running with SDL_mixer version: 1.2.6
+Audio initialized
+Finalizing SDL
+SDL finalized
+Application finished
